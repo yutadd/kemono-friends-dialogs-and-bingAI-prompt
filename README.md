@@ -1,6 +1,6 @@
 # けものフレンズの台詞起こしと bingchat 用プロンプト
 
-all.md を edge で開いて bingChat に bingAI_prompt.txt に書いてあるプロンプトを渡してね！
+(all-サーバルちゃん.md) を edge で開いて bingChat に bingAI_prompt.txt に書いてあるプロンプトを渡してね！
 
 - [第 1 話 さばんなちほー](01.md)
 
